@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blm-test/static/css/main.de464cbb.chunk.css",
+    "main.css": "/blm-test/static/css/main.bb1a01d8.chunk.css",
     "main.js": "/blm-test/static/js/main.702e7046.chunk.js",
     "main.js.map": "/blm-test/static/js/main.702e7046.chunk.js.map",
     "runtime-main.js": "/blm-test/static/js/runtime-main.f5a17f0b.js",
@@ -9,17 +9,17 @@
     "static/js/2.ca187125.chunk.js": "/blm-test/static/js/2.ca187125.chunk.js",
     "static/js/2.ca187125.chunk.js.map": "/blm-test/static/js/2.ca187125.chunk.js.map",
     "index.html": "/blm-test/index.html",
-    "precache-manifest.b4c4b4cc476494cc13ef4fdff7f47207.js": "/blm-test/precache-manifest.b4c4b4cc476494cc13ef4fdff7f47207.js",
+    "precache-manifest.642f58baf173d587ea8c7898b59a9fee.js": "/blm-test/precache-manifest.642f58baf173d587ea8c7898b59a9fee.js",
     "service-worker.js": "/blm-test/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/blm-test/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.de464cbb.chunk.css.map": "/blm-test/static/css/main.de464cbb.chunk.css.map",
+    "static/css/main.bb1a01d8.chunk.css.map": "/blm-test/static/css/main.bb1a01d8.chunk.css.map",
     "static/js/2.ca187125.chunk.js.LICENSE.txt": "/blm-test/static/js/2.ca187125.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5a17f0b.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.ca187125.chunk.js",
-    "static/css/main.de464cbb.chunk.css",
+    "static/css/main.bb1a01d8.chunk.css",
     "static/js/main.702e7046.chunk.js"
   ]
 }
